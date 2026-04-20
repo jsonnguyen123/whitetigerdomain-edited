@@ -1,9 +1,0 @@
-{
-    "name": "white-tiger-technology-drivers",
-    "scripts": {
-      "start": "npx serve . --listen 3000"
-    },
-    "dependencies": {
-      "serve": "^14.2.0"
-    }
-  }
